@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a Computer Science Engineering student at University of Delhi, passionate about leveraging AI and technology to solve real-world problems, especially in healthcare. Currently diving deep into machine learning, explainable AI, and building solutions that make a tangible impact.
+I'm a Computer Science Engineering student at University of Delhi, passionate about leveraging AI and technology to solve real-world problems. Currently diving deep into machine learning, explainable AI, and building solutions that make a tangible impact.
 
 
 ## 🌐 Socials:
