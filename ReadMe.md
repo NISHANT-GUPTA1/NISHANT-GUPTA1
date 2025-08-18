@@ -1,6 +1,6 @@
 # 💫 About Me:
 I'm a Computer Science Engineering student at University of Delhi, passionate about leveraging AI and technology to solve real-world problems. Currently diving deep into machine learning, explainable AI, and building solutions that make a tangible impact.
-
+  
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/_nishant_gupta_30?igsh=MWYxOW16Y2VjeGxqZQ==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/http://www.linkedin.com/in/nishant-gupta-b34858297) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nishu30092000@gmail.com) 
