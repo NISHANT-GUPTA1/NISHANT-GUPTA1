@@ -89,7 +89,7 @@
 | Project | What it is | Stack |
 |---|---|---|
 | **[AI Bug Triage & Release Operator](https://github.com/nishantgupta-cloudastra/BUG-Tracker)** | RAG + agentic-AI tool that turns messy bug reports into clean, de-duplicated GitHub/Plane issues & release notes | Python · FastAPI · Claude Opus 4.8 · Qdrant · Voyage |
-| **[Embrya — AI IVF Embryo Analysis](https://tangerine-tarsier-b28c57.netlify.app/)** | Clinical decision support predicting embryo viability at 87–90% with a HIPAA-ready FastAPI backend | React · TS · FastAPI · TensorFlow |
+| **[Embrya — AI IVF Embryo Analysis](https://embryaivf.netlify.app/)** | Clinical decision support predicting embryo viability at 87–90% with a HIPAA-ready FastAPI backend | React · TS · FastAPI · TensorFlow |
 | **[FEFE — Fitness For Everyone](https://fitnesshealthmonitoringai.netlify.app/)** | Accessibility-first AI fitness platform — real-time pose detection, WCAG 2.1 AA, 10+ languages | Next.js · MediaPipe · Gemma 2 9B |
 | **[Crime Analysis Platform](https://github.com/Akaksingh/crimeanalysis)** | Karnataka Police hackathon — crime hotspot mapping, predictive risk scoring, FIR NLP | Python · ML · React · Geospatial |
 | **3D Reconstruction using AI** | Research — solved the dataset bottleneck by generating 400K+ objects via 20 math functions | Python · Deep Learning · CV |
